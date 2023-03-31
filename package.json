@@ -1,0 +1,20 @@
+{
+  "name": "dospublic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnarayan-samosys/dospublic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devnarayan-samosys/dospublic/issues"
+  },
+  "homepage": "https://github.com/devnarayan-samosys/dospublic#readme"
+}
